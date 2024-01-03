@@ -2,9 +2,7 @@
 
 Eu sou Arthur Soares 
 
-Sou iniciante nesse mundo da Programação
-
-Meu objetivo é me tornar um Dev Front-End
+Desenvolvedor Front-End e UX Design
 
 <div>
 
