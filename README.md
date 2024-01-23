@@ -1,25 +1,23 @@
-### Hi! 👋🏼 
+### Olá! Eu sou Arthur Soares<br>
 
-Eu sou Arthur Soares 
-
-Desenvolvedor Front-End e UX Design
+Atualmente estudando para me especializar no Front-End e também para UX Design.<br>
 
 <div>
-
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthursoares17&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursoares17&layout=compact&theme=tokyonight"/>
-  
 </div>
 
-### 👾 Let's connect follow me: 
+### Tecnologias usadas no meu dia-a-dia
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arthursoares0217@gmail.com)
-
-### Technologies e Tools I use:
-
-<div>
-<img align="center" alt="HTML5" height="30 widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS3" height="30 widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="JAVASCRIPT" height="30 widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
+### Tecnologias de design 
+
+<div><br>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
