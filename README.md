@@ -1,114 +1,27 @@
-### 🤖 Arthur Soares
+### Olá! Eu sou o Arthur Soares 👋
 
-**`Desenvolvedor Front-end`**
+🤖 Sobre mim
 
-Me chamo Arthur Soares, tenho 22 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio Resende - RJ. Sou entusiasta de tecnologia, design e UX Design com um olhar voltado para a experiência do usuário, busco me aprofundar no universo tecnológico e explorar soluções inovadoras que proporcionem usabilidade e design de qualidade.
+- Desenvolvedor Front-end
+- Cursando Análise e Desenvolvimento de Sistemas
 
-### 📊 Estatísticas
+💻 Tecnologias que estou aprendendo
 
-<div>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=arthursoares17&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    alt="GitHub Stats" 
-    height="180"
-  />
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![VueJs](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![NuxtJs](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 👾 Linguagens e Tecnologias
+🎯 Foco atual
 
-<div>
-  <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  />
-  <img 
-      align="left" 
-      alt="CSS" 
-      title="CSS"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />
-  <img 
-      align="left" 
-      alt="JavaScript" 
-      title="JavaScript"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  />
-  <img 
-      align="left" 
-      alt="TypeScript"
-      title="TypeScript" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-  />
-  <img 
-      align="left" 
-      alt="Vue.js"
-      title="Vue.js" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
-  />
-  <img 
-      align="left" 
-      alt="Nuxt.js" 
-      title="Nuxt.js"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" 
-  />
-  <img 
-      align="left" 
-      alt="PHP" 
-      title="PHP"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-  />
-  <img 
-      align="left" 
-      alt="Laravel" 
-      title="Laravel"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-  />
+- 📚 Aprofundando conhecimentos em Vue Js e TypeScript
+- 🎨 Melhorando habilidades de UX/UI Design
+- 🚀 Construindo projetos práticos para fortalecer o portfólio
+- 🌱 Sempre aprendendo novas tecnologias
 
-  <img 
-    align="left" 
-    title="MySql"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</div>
+📊 Estatísticas 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthursoares17&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
